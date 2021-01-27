@@ -1,5 +1,5 @@
 ### My Expenses App UI
-![](https://github.com/walidrudro/ToDo1/blob/master/MyTask.gif?raw=true)
+![](https://github.com/walidrudro/expenseApp-UI/blob/master/expenseui.gif?raw=true)
 
 ### Download from Google Play Store
 [<img src='https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png' alt='googleplaystore' height='60'>](https://play.google.com/store/apps/details?id=co.walid.expensetracker)
